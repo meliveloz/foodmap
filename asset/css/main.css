@@ -62,3 +62,26 @@ h2{
   padding-top: 60vh;
   background-image: url(../img/Ven-a-conocernos1.jpg);
 }
+
+.producttitle{
+  color: white;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.modal-style{
+  top: 60vh;
+
+}
+.title-modal{
+  font-size: 4em;
+}
+.adress-modal{
+  font-size: 2em;
+}
+.dialog-style{
+  background-color: orange;
+
+}
+.modal-modal{
+  background-color: orange;
+}
